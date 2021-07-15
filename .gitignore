@@ -1,0 +1,6 @@
+*.dll
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+.vs/
